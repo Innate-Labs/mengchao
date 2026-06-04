@@ -47,7 +47,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="梦巢 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="梦巢 首页" width="100%" />
   <br/>
   <sub><b>AI 心理学梦境记录与解读工具</b></sub>
 </div>
